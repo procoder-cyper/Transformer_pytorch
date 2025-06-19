@@ -36,6 +36,6 @@ This implementation includes:
 
 ---
 
-## 📁 Project Structure
+
 
 
